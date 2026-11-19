@@ -1,11 +1,9 @@
 # Hi, I'm Olga 👋
 
-**SOC & Cyber Threat Intelligence Analyst** · OSINT · Fluent in Russian ·  VA
-
 I investigate threats: triaging alerts, researching threat activity and indicators of compromise, and digging through logs to find what doesn't belong. Before security, I spent five years in financial operations, where my job was finding the numbers that didn't add up. This GitHub is where I document my labs, investigations, and tools.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Olga-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/olga-m-a23637197)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_4%25-212C42?logo=tryhackme&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?logo=tryhackme&logoColor=white)
 
 ---
 
